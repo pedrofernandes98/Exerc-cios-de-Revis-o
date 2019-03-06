@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\obj\Debug\lista1ex10.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\obj\Debug\lista1ex10.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\bin\Debug\lista1ex10.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\bin\Debug\lista1ex10.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\bin\Debug\lista1ex10.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\obj\Debug\lista1ex10.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1ex10\lista1ex10\obj\Debug\lista1ex10.pdb

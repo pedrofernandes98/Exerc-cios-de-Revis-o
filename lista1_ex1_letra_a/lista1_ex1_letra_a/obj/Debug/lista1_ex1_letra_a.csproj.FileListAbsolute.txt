@@ -1,0 +1,6 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letra_a\lista1_ex1_letra_a\obj\Debug\lista1_ex1_letra_a.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letra_a\lista1_ex1_letra_a\bin\Debug\lista1_ex1_letra_a.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letra_a\lista1_ex1_letra_a\bin\Debug\lista1_ex1_letra_a.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letra_a\lista1_ex1_letra_a\bin\Debug\lista1_ex1_letra_a.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letra_a\lista1_ex1_letra_a\obj\Debug\lista1_ex1_letra_a.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letra_a\lista1_ex1_letra_a\obj\Debug\lista1_ex1_letra_a.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letrab\lista1_ex1_letrab\bin\Debug\lista1_ex1_letrab.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letrab\lista1_ex1_letrab\bin\Debug\lista1_ex1_letrab.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letrab\lista1_ex1_letrab\bin\Debug\lista1_ex1_letrab.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letrab\lista1_ex1_letrab\obj\Debug\lista1_ex1_letrab.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letrab\lista1_ex1_letrab\obj\Debug\lista1_ex1_letrab.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Exercícios de Revisão\lista1_ex1_letrab\lista1_ex1_letrab\obj\Debug\lista1_ex1_letrab.pdb
